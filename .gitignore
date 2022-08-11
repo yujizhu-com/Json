@@ -1,0 +1,6 @@
+proj.ios_mac/*.xcodeproj/project.xcworkspace
+proj.ios_mac/*.xcodeproj/xcuserdata
+cocos2d/build/cocos2d_libs.xcodeproj/xcuserdata
+cocos2d/build/cocos2d_libs.xcodeproj/xcuserdata
+proj.ios_mac/*.xcodeproj/xcuserdata
+.DS_Store
